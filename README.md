@@ -1,16 +1,26 @@
-## Hi there 👋
+# Baltzer Marketing
 
-<!--
-**baltzer-marketing/baltzer-marketing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Baltzer Marketing** helps law firms grow with powerful SEO, PPC, and conversion-focused digital marketing strategies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚖️ What We Do
+
+- **SEO for law firms**
+- **Pay-per-click (PPC) for attorneys**
+- **Attorney marketing strategy**
+- Local SEO & Google Business Profile management
+- High-converting landing pages
+- Transparent reporting & performance-driven campaigns
+
+---
+
+## 🚀 Why Law Firms Work With Us
+
+Because results matter. Whether you're a solo attorney or a mid-size firm, we help you attract better cases, reduce wasted ad spend, and win online.
+
+---
+
+## 🌐 [Visit Baltzer Marketing](https://baltzermarketing.com)
+
+Get a free strategy session and discover how we can grow your law firm with digital marketing that actually works.
